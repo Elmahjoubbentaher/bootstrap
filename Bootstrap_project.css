@@ -1,0 +1,82 @@
+.carousel-inner img {
+    -webkit-filter: grayscale(90%);
+    filter: grayscale(90%);  
+    width:100%; 
+    margin: auto;
+    padding: 60px;
+  } 
+
+
+
+.navbar {
+    font-family: Montserrat, sans-serif;
+    margin: 0;
+    background-color: #2d2d30;
+    letter-spacing: 4px;
+    opacity: 0,9;
+    padding: 0%;
+  }
+  .navbar .navbar-brand { 
+    font-size:20px;
+    color: #38687a;
+  }
+  .navbar li a{
+    float: right;
+    font-size: 15px;
+    color: #5d6e74;
+  }
+  .navbar-nav li a:hover {
+    color: rgb(51, 12, 12) !important;
+    background-color: black;
+  }
+  .active {
+    background-color: #0a0300 !important;
+    
+  }
+
+.j {
+  padding: 60px;
+  background-color: #f0e4e4e3;
+}
+.h {
+  padding: 60px;
+  background-color: #a9dff5;
+}
+
+  .logo{
+  font-size: 170px;
+  color:rgb(175, 138, 88);
+  }
+  .icon{
+    font-size:60px;
+    color:rgb(124, 158, 55);
+  }
+.m{
+  padding: 60px;
+  }
+.n{
+  text-align: center;
+  padding: 50px;
+  background-color: #0a0300;
+  color:rgb(12, 83, 238)    ;
+}
+.footer{
+  background-color: #0a0300;
+  padding: 20px;
+  text-align: center;
+  color:rgb(255, 255, 255);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size:15px;
+}
+.c {
+  text-align: end;
+}
+.p{
+  font-size: 20px;
+  color:rgb(255, 255, 255);
+}
+
+
+ 
+
+
